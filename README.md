@@ -5,7 +5,7 @@ This is a public suggestion-tracking repository for ideas and confirmed features
 
 ## Submitting
 
-Suggestions can be [submitted](https://github.com/Xenith-Network/Suggestions/suggestions/new) at the [suggestions tracker](https://github.com/Xenith-Network/Suggestions/suggestions).
+Suggestions can be [submitted](https://github.com/Xenith-Network/Suggestions/issues/new) at the [suggestions tracker](https://github.com/Xenith-Network/Suggestions/issues).
 
 ### Do:
 
